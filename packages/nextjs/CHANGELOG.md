@@ -1,5 +1,15 @@
 # Change Log
 
+## 7.2.4
+
+### Patch Changes
+
+- Add helpful TypeScript error for incorrect `auth` import path ([#8358](https://github.com/clerk/javascript/pull/8358)) by [@jacekradko](https://github.com/jacekradko)
+
+- Updated dependencies [[`abaa339`](https://github.com/clerk/javascript/commit/abaa3390b076cf8b5ccfc0a22312d5bde0c60988)]:
+  - @clerk/backend@3.2.14
+  - @clerk/react@6.4.2
+
 ## 7.2.3
 
 ### Patch Changes

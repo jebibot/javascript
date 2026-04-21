@@ -1,5 +1,11 @@
 # @clerk/ui
 
+## 1.6.4
+
+### Patch Changes
+
+- Default the organization selection in `<OAuthConsent />` to the user's last active organization, falling back to the first membership when it is not set or no longer available. ([#8362](https://github.com/clerk/javascript/pull/8362)) by [@kylemac](https://github.com/kylemac)
+
 ## 1.6.3
 
 ### Patch Changes

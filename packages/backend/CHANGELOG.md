@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.2.14
+
+### Patch Changes
+
+- A clock skew of 0 will not fall back to the default value anymore. ([#8359](https://github.com/clerk/javascript/pull/8359)) by [@dominic-clerk](https://github.com/dominic-clerk)
+
 ## 3.2.13
 
 ### Patch Changes
